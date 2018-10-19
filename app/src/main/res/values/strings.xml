@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">OSI Model</string>
+    <string name="Title">OSI Model</string>
+    <string name="Introduction">Open System Interconnect is an open standard for all communication systems. OSI model is established by International Standard Organisation (ISO). The model has 7 layers:</string>
+    <string name="Body"><![CDATA[
+<p><b><i>Application Layer: </i></b><p> test content content content  content content content</p></p>
+
+
+<p><b><i>Layer Two: </i></b><p>step2 content  content content content  content content content</p></p>
+
+
+]]>
+</string>
+    <string name="Body2">Text Under YoutubeFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
